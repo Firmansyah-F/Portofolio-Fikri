@@ -92,7 +92,7 @@ export default function ProjectSection() {
             }
           >
             <Image
-              src="/project_4.png"
+              src="/project_3.png"
               alt="KADIN"
               width={600}
               height={400}
@@ -118,7 +118,7 @@ export default function ProjectSection() {
             }
           >
             <Image
-              src="/project_3.png"
+              src="/project_4.png"
               alt="Pefindo"
               width={600}
               height={400}
